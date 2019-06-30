@@ -20,20 +20,24 @@ nity
 
 ## Course Coordinator
 Dr Arindam Basu
+
 Room 405F, Manawa,
+
 Antigua Street
+
 Phone: 03 369 3509,
-Email: arindam.basu@canterbury.ac.nz
-To schedule a 30 minute appointment with Arindam Basu, please fill in this form: https://calendly.com/arin-basu/30min
+
+Email: [arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
+To schedule a 30 minute appointment with Arindam Basu, please fill in this form: [Appointment form](https://calendly.com/arin-basu/30min)
 
 ## Lecture Schedule
 
 Follow the course information system for class timings and venue:
-https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH214&occurrence=19S2(C)&year=2019
+[https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH214&occurrence=19S2(C)&year=2019](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH214&occurrence=19S2(C)&year=2019)
 If we change the venue or time of any class, this will be posted on Learn and emailed to students. Classes start on 17th July, Wednesday, 2019, 12 pm - 2 pm
 
 The venue: Rehua 102 (see the map here: 
-https://www.canterbury.ac.nz/maps/home?q=Rehua%20102)
+[https://www.canterbury.ac.nz/maps/home?q=Rehua%20102](https://www.canterbury.ac.nz/maps/home?q=Rehua%20102)
 
 | Date and time | Topic                                       |
 |---------------|---------------------------------------------|
