@@ -99,4 +99,4 @@ To pass this course, you must successfully complete two assessments:
 ## Special consideration
 If you miss an assessment, you can apply for special consideration for that assess-
 ment. You can do that only for one assessment in this course. For more infor-
-mation, please see http://www.canterbury.ac.nz/study/special-consideration/
+mation, please see [http://www.canterbury.ac.nz/study/special-consideration/](http://www.canterbury.ac.nz/study/special-consideration/)
