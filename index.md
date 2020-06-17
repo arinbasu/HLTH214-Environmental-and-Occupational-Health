@@ -1,7 +1,6 @@
 ---
 title: Syllabus of HLTH214
 author: Arindam Basu
-date: 2020-06-16
 ...
 
 # Course handbook for HLTH214: Environmental and Occuptional Health at the University of Canterbury
