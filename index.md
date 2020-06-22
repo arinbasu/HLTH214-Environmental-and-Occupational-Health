@@ -2,7 +2,8 @@
 title: Syllabus of HLTH214
 author: Arindam Basu
 date: 2020-06-16
-tags: environment, health
+tags: environment health
+
 ---
 
 # HLTH214: Environmental and Occuptional Health
