@@ -2,7 +2,7 @@
 title: Syllabus of HLTH214
 author: Arindam Basu
 date: 2020-06-16
-tags: enviromental, health
+tags: enviroment, health
 ---
 
 # HLTH214: Environmental and Occuptional Health
@@ -67,8 +67,8 @@ To schedule a 30 minute appointment with Arindam Basu, please fill in this form:
 
 ## Timetable 2020
 
-Classroom venue: Rehua 101 Lectorial (see the map here): 
-http://www.canterbury.ac.nz/maps/home?q=Rehua%20101%20Lectorial
+Classroom venue: [Rehua 101 Lectorial (select this link to view map)](http://www.canterbury.ac.nz/maps/home?q=Rehua%20101%20Lectorial): 
+
 Classroom time: 11:00 AM - 1:00 PM
 
 
@@ -86,8 +86,6 @@ Classroom time: 11:00 AM - 1:00 PM
 - 29th September, Sustainability
 - 6th October, Health effects of climate change
 - 13th October, Summary and final class
-
-
 
 ## Assessment
 
