@@ -67,7 +67,7 @@ To schedule a 30 minute appointment with Arindam Basu, please fill in this form:
 
 ## Timetable 2020
 
-Classroom venue: [Rehua 001 Lectorial (select this link to view map)](http://www.canterbury.ac.nz/maps/home?q=Rehua%20101%20Lectorial): 
+Classroom venue: [Rehua 001 Lectorial (select this link to view map)](http://www.canterbury.ac.nz/maps/home?q=Rehua%20001%20Lectorial): 
 
 Classroom time: 11:00 AM - 1:00 PM
 
