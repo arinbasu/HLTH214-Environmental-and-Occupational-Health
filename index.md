@@ -50,75 +50,58 @@ GA4 Community engagement
     - Gaining knowledge and understanding through reflection (LO2 and LO3)
     - Understanding and articulating how content of Environmental and Occupational Health enhances the community (LO3 and LO4)
 
-## Course Coordinator
+## Course Leader
+
 Dr Arindam Basu
 
-Room 405F, Manawa,
+Room 305, Rehua
 
-176 St Asaph Street,
+School of Health Sciences
 
 Phone: 03 369 3509,
 
 Email: [arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
 
-To schedule a 30 minute appointment with Arindam Basu, please fill in this form: 
 
-[Select me to up an appointment with Arindam Basu](https://calendly.com/arin-basu/30min)
 
-## Timetable 2020
+## Timetable 2021
 
-Classroom venue: Rehua 101 Lectorial: 
+Classroom: Rehua 529
 
-Classroom time: 11:00 AM - 1:00 PM
-
+Classtime: Mondays during term time 9 AM - 11 AM
 
 **_There is NO Tutorial in this course_** 
-- 14th July, Introduction and Overview
-- 21st July, Environmental Epidemiology
-- 28th July, Occupational Health
-- 4th August, Introduction to Toxicology
-- 11th August, Hazard and Exposure
-- 18th August, Risk Characterisation
-- 8th September, Air pollution
-- 15th September, Water sanitation and hygiene (WASH) 
-- 22nd September, Occupational hazards
-- 29th September, Sustainability
-- 6th October, Health effects of climate change
-- 13th October, Summary and final class
+
+## Lecture Schedule
+
+| Month |	Day_of_week |	Day |	Time       |	Activity                  |
+|-------|-------------|-----|------------|---------------------------|
+| July 	| Monday	     | 19th| 9 to 11 AM |	Introduction to Env Health|
+|	      | Monday      |	26th |	9 to 11	  |Env Epidemiology 1         |
+| August |	Monday     |	2nd  |	9 to 11	  | Env Epidemiology 2        |
+|        |	Monday     |	9th	 | 9 - 11	   | Principles of Toxicology 1 |
+|        | Monday     |	16th | 	9 - 11   |	Toxicology 2               |
+|        | Monday     |	23rd	|9 - 11	    |Occupational Health         |
+|        |	Friday     |	29th	|	          |Ist Assessment deadline 5 PM  |
+|        |	Monday	    |30th  |           |	No Class, mid semester break |
+| September |	Monday  |	6th 	|           | No Class, mid semester break |	
+|           |	Monday	 | 13th |	9 - 11	   | Env Health Risk Assessment 1 |
+|	          | Monday  |	20th | 	9 - 11	  | Env Health risk Assessment 2 |
+|           | Monday  |	27th |	9 - 11    |	Health Effects of Air Pollution |
+| October	  | Monday  |	4th  | 	9 - 11  |	Water Sanitation Hygiene  |
+|          |	Monday   |	11th | 	9 - 11  |	Sustainability  |
+|	         |Monday    |	18th | 	9 - 11  |	Climate Change |
+|	         | Friday	  | 22nd | 		       |2nd Assessment deadline at 5 PM |
+
 
 ## Assessment
 
-A1. Write a memo addressed to a local Councillor on an Environmental or Occupational health related issue (50%, marked out of 50)
+A1. Write about an Environmental or Occupational health related issue (50%, marked out of 50)
 
 A2. Write an annotated bibliography of a selected environmental health issue of your choice (50%, marked out of 50)
 
-## A1. First assessment: Memo assignment (50% weight, marked out of 50) 
-Write a memo on an environmental or occupational health topic you think appropriate to your local councillor.
-
-Step by step instructions:
-1. Choose an environmental or occupational health issue
-2. Conduct research on that environmental or occupational problem
-3. Discuss health issues associated with the problem
-4. Write why addressing this problem is important where you live
-5. Write how you will address the environmental health related problem
-6. End the memo with what you expect the councillor to do
-7. Word limit is **2000 words**. 
-8. The **word count excludes all words included in tables, figures, and list of references, and includes only words in the main body of the text (words in caption, summary, headings, text, etc)**
-9. You must use the template provided in the course and instructions written there.
-10. **Submit the memo through Learn as a pdf document by 21st August, 2020 5 PM** (this is a _hard deadline_, you can submit earlier but not later than this date)
-
-## A2. Second Assessment task: Annotated Bibliography
-Write an annotated bibliography of a selected environmental or occupational health problem (your choice, can be same as A1)
-
-Step by step instructions:
-- Select an environmental health issue (your choice). 
-- Research as many scholarly databases as you can and identify articles, books, monographs, reports (the list is not exhaustive). These are called "resources"
-- In your document, cite each resource as per APA citation rules.
-- Next to each resource, write **at least one paragraph**
-- In the paragraph summarise the content of the paper and critically appraise the paper based on everything you learned in the course. 
-- Word limit is **2000 words**. 
-- The **word count excludes all words included tables, figures, and list of references, and includes only words in the main body of the text (words in caption, summary, headings, text, etc)**
-- **Submit the memo through Learn as a pdf document by 16th October, 2020, 5 PM** (this is a _hard deadline_, you can submit earlier but not later than this date)
+Complete both assignments through the Learn Assignment Page and follow instructions
+Both Assignments are **OPEN** but you must submit by the **hard deadlines** listed above. No extension can be allowed. If you cannot complete the assignments on time for a valid reason, please apply for special considerations. See the section on special considerations.
 
 ## Course Links
 
@@ -127,11 +110,9 @@ Step by step instructions:
 - Course osf.io page: [https://osf.io/harvf/](https://osf.io/harvf/)
 
 - Course wooclaps: [https://app.wooclap.com/home](https://app.wooclap.com/home)
-
-- Course Youtube video page: TK
 - Course information page: [https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH214&occurrence=20S2(C)&year=2020](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH214&occurrence=20S2(C)&year=2020)
 
-- Learn page (requires log in): [https://learn.canterbury.ac.nz/course/view.php?id=7182](https://learn.canterbury.ac.nz/course/view.php?id=7182)
+- Learn page (requires UC log in): [https://learn.canterbury.ac.nz/course/view.php?id=7182](https://learn.canterbury.ac.nz/course/view.php?id=7182)
 
 
 
