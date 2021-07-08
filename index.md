@@ -52,7 +52,7 @@ GA4 Community engagement
 
 ## Course Leader
 
-Dr Arindam Basu
+Associate Professor Arindam Basu
 
 Room 305, Rehua
 
@@ -74,34 +74,35 @@ Classtime: Mondays during term time 9 AM - 11 AM
 
 ## Lecture Schedule
 
-| Month |	Day_of_week |	Day |	Time       |	Activity                  |
+| Month |	Day_of_week |	Day |	Time       |	Topic                  |
 |-------|-------------|-----|------------|---------------------------|
-| July 	| Monday	     | 19th| 9 to 11 AM |	Introduction to Env Health|
-|	      | Monday      |	26th |	9 to 11	  |Env Epidemiology 1         |
-| August |	Monday     |	2nd  |	9 to 11	  | Env Epidemiology 2        |
-|        |	Monday     |	9th	 | 9 - 11	   | Principles of Toxicology 1 |
-|        | Monday     |	16th | 	9 - 11   |	Toxicology 2               |
+| July 	| Monday	     | 19th| 9 to 11 AM |	Introduction to Environmental and Occupational Health |
+|	      | Monday      |	26th |	9 to 11	  |Environmental and Occupational Epidemiology, Part I          |
+| August |	Monday     |	2nd  |	9 to 11	  | Environmental and Occupational Epidemiology, Part II        |
+|        |	Monday     |	9th	 | 9 - 11	   | Principles of Toxicology Part I |
+|        | Monday     |	16th | 	9 - 11   |	Principles of Toxicology Part II               |
 |        | Monday     |	23rd	|9 - 11	    |Occupational Health         |
 |        |	Friday     |	29th	|	          |Ist Assessment deadline 5 PM  |
 |        |	Monday	    |30th  |           |	No Class, mid semester break |
 | September |	Monday  |	6th 	|           | No Class, mid semester break |	
-|           |	Monday	 | 13th |	9 - 11	   | Env Health Risk Assessment 1 |
-|	          | Monday  |	20th | 	9 - 11	  | Env Health risk Assessment 2 |
+|           |	Monday	 | 13th |	9 - 11	   | Environmental Health Risk Assessment Part I |
+|	          | Monday  |	20th | 	9 - 11	  | Environmental Health risk Assessment Part II |
 |           | Monday  |	27th |	9 - 11    |	Health Effects of Air Pollution |
 | October	  | Monday  |	4th  | 	9 - 11  |	Water Sanitation Hygiene  |
 |          |	Monday   |	11th | 	9 - 11  |	Sustainability  |
-|	         |Monday    |	18th | 	9 - 11  |	Climate Change |
+|	         |Monday    |	18th | 	9 - 11  |	Health Effects of Climate Change |
 |	         | Friday	  | 22nd | 		       |2nd Assessment deadline at 5 PM |
 
 
 ## Assessment
 
-A1. Write about an Environmental or Occupational health related issue (50%, marked out of 50)
+A1. Write about an Environmental or Occupational health topic (50%, marked out of 50)
 
-A2. Write an annotated bibliography of a selected environmental health issue of your choice (50%, marked out of 50)
+A2. Write an annotated bibliography of a selected environmental health topic (50%, marked out of 50)
 
-Complete both assignments through the Learn Assignment Page and follow instructions
-Both Assignments are **OPEN** but you must submit by the **hard deadlines** listed above. No extension can be allowed. If you cannot complete the assignments on time for a valid reason, please apply for special considerations. See the section on special considerations.
+Complete both assignments through the Learn Assignment Page and follow instructions in that page.
+
+You can complete and submit the assignments earlier but NOT later than the **hard deadlines** listed above. _No extension will be allowed_. If you cannot complete any of the assignments on time for a valid reason, you can apply for special considerations. See the section on special considerations.
 
 ## Course Links
 
@@ -113,7 +114,6 @@ Both Assignments are **OPEN** but you must submit by the **hard deadlines** list
 - Course information page: [https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH214&occurrence=20S2(C)&year=2020](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH214&occurrence=20S2(C)&year=2020)
 
 - Learn page (requires UC log in): [https://learn.canterbury.ac.nz/course/view.php?id=7182](https://learn.canterbury.ac.nz/course/view.php?id=7182)
-
 
 
 ## Special consideration
